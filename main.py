@@ -9,7 +9,9 @@ slang_dict = {
     "YAPPING": "Talking too much or saying what seems like nonsense to the listener",
     "YAPANESE": "Used with speaking to mean yapping (see: YAPPING)",
     "YAPPUCINO": "Used with  I didn't order a  to mean  You are yapping  (see: YAPPING)",
-    "NGL": "Not Going to Lie (I am being honest)"
+    "NGL": "Not Going to Lie (I am being honest)",
+    "ICL": "I can't lie (see: NGL)",
+    "RIZZ": "Charisma, charm"
 }
 
 # Get input
